@@ -26,6 +26,7 @@ Enter the following commands sequentially:
  exit()
 
 Copy the secret key and replace secret_key in your settings.py file inside ACM_website folder
+
 Replace SECRET_KEY = env('secret_key') with the random secret key you just copied.
 
 # to create super user
